@@ -2,8 +2,8 @@
   "manifest": {
     "api_version": 1,
     "id": "catppuccin-mocha-blue",
-    "name": "Catppuccin Mocha — Blue",
-    "version": "0.1.0",
+    "name": "Catppuccin",
+    "version": "0.1.1",
     "author": "LyKhoris",
     "license": "MIT",
     "source": "https://github.com/LyKhoris/SereinCatppuccin",

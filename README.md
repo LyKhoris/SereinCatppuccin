@@ -6,7 +6,8 @@
 ## Download and install
 
 1. [Download the theme](https://github.com/LyKhoris/SereinCatppuccin/releases/latest/download/catppuccin-mocha-blue.serein-extension).
-2. In Serein, open **Settings → Themes**, import the file, and choose **Use theme**.
+2. In Serein, open **Settings → Themes**, import the file, and choose **Use theme**
+   for **Catppuccin**.
 3. Use **Dark** appearance with **Transparency & blur** off for the intended colors.
    Restart Serein if you change that effects switch.
 

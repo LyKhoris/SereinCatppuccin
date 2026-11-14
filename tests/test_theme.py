@@ -70,6 +70,7 @@ class ThemeTests(unittest.TestCase):
         self.assertEqual(manifest["api_version"], 1)
         self.assertEqual(manifest["kind"], "theme")
         self.assertEqual(manifest["id"], "catppuccin-mocha-blue")
+        self.assertEqual(manifest["name"], "Catppuccin")
         self.assertRegex(manifest["id"], r"^[a-z0-9][a-z0-9-]{0,63}$")
         for field in ("name", "version", "author", "license"):
             self.assertTrue(manifest[field].strip())
