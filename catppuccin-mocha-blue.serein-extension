@@ -1,0 +1,60 @@
+{
+  "manifest": {
+    "api_version": 1,
+    "id": "catppuccin-mocha-blue",
+    "name": "Catppuccin Mocha — Blue",
+    "version": "0.1.0",
+    "author": "LyKhoris",
+    "license": "MIT",
+    "source": "https://github.com/LyKhoris/SereinCatppuccin",
+    "kind": "theme",
+    "capabilities": [],
+    "actions": []
+  },
+  "theme": {
+    "dark": {
+      "colors": {
+        "base": "#11111b",
+        "sidebar": "#181825",
+        "chat": "#1e1e2e",
+        "raised": "#313244",
+        "hover": "#313244",
+        "selected": "#313244",
+        "border": "#45475a",
+        "text_strong": "#cdd6f4",
+        "text": "#cdd6f4",
+        "muted": "#a6adc8",
+        "link": "#89b4fa",
+        "accent": "#89b4fa",
+        "accent_text": "#1e1e2e",
+        "positive": "#a6e3a1",
+        "warning": "#f9e2af",
+        "danger": "#f38ba8",
+        "mention_bg": "#313244",
+        "mention_text": "#89b4fa"
+      }
+    },
+    "light": {
+      "colors": {
+        "base": "#11111b",
+        "sidebar": "#181825",
+        "chat": "#1e1e2e",
+        "raised": "#313244",
+        "hover": "#313244",
+        "selected": "#313244",
+        "border": "#45475a",
+        "text_strong": "#cdd6f4",
+        "text": "#cdd6f4",
+        "muted": "#a6adc8",
+        "link": "#89b4fa",
+        "accent": "#89b4fa",
+        "accent_text": "#1e1e2e",
+        "positive": "#a6e3a1",
+        "warning": "#f9e2af",
+        "danger": "#f38ba8",
+        "mention_bg": "#313244",
+        "mention_text": "#89b4fa"
+      }
+    }
+  }
+}
